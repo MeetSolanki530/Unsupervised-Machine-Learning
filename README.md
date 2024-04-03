@@ -20,7 +20,7 @@ To replicate the analysis:
 
 ## Contributors
 
-- [Your Name](https://github.com/MeetSolanki530)
+- [Meet Solanki](https://github.com/MeetSolanki530)
 
 ## License
 
