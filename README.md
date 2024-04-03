@@ -5,7 +5,7 @@ This repository contains code and datasets used for clustering and dimensionalit
 ## Datasets Used
 
 - **Fuzzy C-Means**: [Country Data](Fuzzy-c-means/Country-data.csv)
-- **Hierarchical Clustering**: [Retail Data](Hierarchical Clustering algorithm/Retail.csv)
+- **Hierarchical Clustering**: [Retail Data](Hierarchical_Clustering_algorithm/Retail.csv)
 - **K-Means**: [Live Data](Kmeans/Live.csv)
 - **Mean Shift**: Iris dataset (built-in)
 - **PCA**: Breast Cancer dataset (built-in)
