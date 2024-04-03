@@ -20,8 +20,8 @@ To replicate the analysis:
 
 ## Contributors
 
-- [Your Name](https://github.com/MeetSolanki530)
+- [Meet Solanki](https://github.com/MeetSolanki530)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
